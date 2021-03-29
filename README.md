@@ -2,7 +2,7 @@
 
 I have to make clear that this project is for training reasons and to help me understand better how to treat a classification problem. There may exist mistakes, thus if you notice anything let me know.
 
-My porpose was to use the dataset which contains many characteristics of people in order to train some models to classify people if they have a high or low chance of a heart attack based on their characteristics. After that to choose the best for use. 
+My porpose was to use the dataset which contains many characteristics of people in order to train some models to classify people if they have a high or low chance of a heart disease based on their characteristics. After that to choose the best for use. 
 
 In this project i used a dataset from Kaggle.com that concerns people from Cleveland.
 
