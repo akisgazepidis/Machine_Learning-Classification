@@ -24,4 +24,4 @@ The dataset i chose was cleaned.The cleaned data set contains information of 14 
 
 There were no missing values.
 
-After trial and error the model i chose was XgBoostRegressor. It reached a F1 score: 0.903 with Precision score: 0.933 . This means that the model has 94.9% Accurancy. However because i have to deal with a problem to classify if a person is possible to have a heart attack or not Precision was the main factor for me to in order to choose the suitable model.  
+After trial and error the model i chose was XgBoostRegressor. It reached a F1 score: 0.903 with Precision score: 0.933 . Because i have to deal with a problem to classify if a person is possible to have a heart attack or not Precision was the main factor for me to in order to choose the suitable model.  
