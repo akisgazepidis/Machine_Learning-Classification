@@ -9,7 +9,7 @@ In this project i used a dataset from Kaggle.com that concerns people from Cleve
 The dataset i chose was cleaned.The cleaned data set contains information of 14 attributes:
 1) age
 2) sex: 0 = female, 1 = male
-3)  3) cp = chest pain type (4 values)
+3) cp = chest pain type (4 values)
 4) trestbps = resting blood pressure
 5) chol =  serum cholestoral in mg/dl
 6) fbs = fasting blood sugar > 120 mg/dl
