@@ -2,8 +2,10 @@
 
 I have to make clear that this project is for training reasons and to help me understand better how to treat a classification problem. There may exist mistakes, thus if you notice anything let me know.
 
-My porpose was to use the dataset which contains many characteristics of people in order to train some models to classify people if they have a high or low chance of a heart disease based on their characteristics. After that to choose the best for use. 
+## Main Goal
+Use the dataset which contains many characteristics of people in order to train some models to classify people if they have a high or low chance of a heart disease based on their characteristics. After that to choose the best for use. 
 
+## Information about Dataset
 In this project i used a dataset from Kaggle.com that concerns people from Cleveland.
 
 The dataset i chose was cleaned.The cleaned data set contains information of 14 attributes:
@@ -24,4 +26,5 @@ The dataset i chose was cleaned.The cleaned data set contains information of 14 
 
 There were no missing values.
 
+## Model's metrics
 After trial and error the model i chose was XgBoostRegressor. It reached a F1 score: 0.903 with Precision score: 0.933 . Because i have to deal with a problem to classify if a person is possible to have a heart attack or not Precision was the main factor for me to in order to choose the suitable model.  
